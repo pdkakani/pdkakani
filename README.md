@@ -1,4 +1,12 @@
-# Hi there, I'm Pushpak Kakani 👋
+<!-- # Hi there, I'm Pushpak Kakani 👋 -->
+
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Pushpak Kakani
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;6%2B+Years+of+Professional+Experience+%F0%9F%9A%80;Backend+%26+Microservices+Expert+%E2%9A%A1;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
