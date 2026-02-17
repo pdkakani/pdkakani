@@ -14,7 +14,7 @@ Software Developer with **6+ years** of industry experience building scalable, d
 
 - 🎓 **Master's in Computer Science** @ University at Buffalo (GPA: 3.8/4.0)
 - 💼 Currently seeking Software Engineering opportunities in the USA
-- 🌍 Previously worked at **DNB Bank ASA** (Norway) and **Tata Research** (India)
+- 🌍 Previously worked at **DNB Bank ASA (Tata Consultancy Services)** (Norway) and **Tata Research Developement and Design Centre** (India)
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🔨 Passionate about building robust, scalable backend systems
 
@@ -37,7 +37,6 @@ Software Developer with **6+ years** of industry experience building scalable, d
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -114,6 +113,8 @@ I'm actively seeking Software Engineering opportunities in the USA. Feel free to
 
 ### 💡 "Building scalable systems, one microservice at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=pdkakani&color=blueviolet&style=flat-square)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐ From [pdkakani](https://github.com/pdkakani) | Let's build something amazing together! 🚀**
 
 </div>
